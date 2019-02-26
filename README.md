@@ -50,7 +50,10 @@ I am [Alexandru Cercel](https://www.linkedin.com/in/alexandru-mihai-cercel-b4988
 # What is the typical workflow of a major video game?
 
 # Workflow diagrams 
-## Workflow diagrams
+
+# Quality Test
+
+# Stabilization Phases
 
 
 
