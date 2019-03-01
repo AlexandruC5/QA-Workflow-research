@@ -43,15 +43,13 @@ I am [Alexandru Cercel](https://www.linkedin.com/in/alexandru-mihai-cercel-b4988
 
 
 # What is QA Workflow
-## LQA
-## FQA
-## CQA
+
 
 # What is the typical workflow of a major video game?
 
 # Workflow diagrams 
 
-# Quality Test
+# Traditional 
 
 # Stabilization Phases
 
