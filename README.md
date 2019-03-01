@@ -113,7 +113,7 @@ Also, debt work is also done. All the work that has to be done to fullfil the co
 It is important not to get stuck in the stabilization phase, normally when a stabilization phase is long that means that the programmers are not sure of the code they have provided and therefore they ask for more stabilization time because they are afraid of the behavior of the program . More time of execution does not mean that there is more quality, you have to ensure that there is a minimum number of bugs and that all implementation is as polished as possible to ensure a margin of quality at the end of it.
 
 
-#Tips to improve QA Workflow
+# Tips to improve QA Workflow
 
 - Stay close to your team
 - Break free from the classical roles and responsibilities of QA
@@ -124,7 +124,22 @@ It is important not to get stuck in the stabilization phase, normally when a sta
 
 
 
+# Sources
 
+- [Ruuska Thesis](https://www.theseus.fi/bitstream/handle/10024/94503/Ruuska_Essi.pdf?sequence=1)
 
+- [Matej Komar - Master Thesis](https://is.muni.cz/th/tlkuv/Quality_Assurance_in_Game_Development_-_Matej_Komar)
+
+- [Lucid's Chart blog](https://www.lucidchart.com/blog/)
+
+- [KineomaticSoup](http://www.kinematicsoup.com/news/2016/11/10/game-development-workflow-part2)
+
+- [QA in projects](https://kruschecompany.com/blog/post/quality-assurance-in-projects)
+
+- [Agile Methodology](https://www.qasymphony.com/blog/agile-methodology-guide-agile-testing/)
+
+- [Eternal Sunshine of the is Mind](https://eternalsunshineoftheismind.wordpress.com/2013/02/04/traditional-methods-of-software-development/)
+
+- [Atlassian](https://www.atlassian.com/blog/inside-atlassian/jira-qa-process)
 
 
