@@ -26,7 +26,7 @@ To reduce errors and minimize bugs, different tools are used to help us carry ou
 **Release support** - The newly released game is beeing watched and looking forward to make a patch to solve bugs and other problems that might be founded during the release.
 ![](Docs/UntitledDiagram.png)
 
-Therfore the QA invervention during the project is like this: ![](Docss/Blog1.png)
+Therfore the QA invervention during the project is like this: ![](Docs/Blog1.png)
 
 **Planning feedback**
 
