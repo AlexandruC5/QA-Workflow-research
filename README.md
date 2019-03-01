@@ -90,7 +90,7 @@ The traditional workflow is based on planing everything from the start, every pr
 
 The agile workflow is a adaptive method where refactorization is used to build the project over what we already have improving it constanly and giving it more features. This workflow is normaly used on small teams and projects that dosent last long. There are few roles and the team is very flexible in general and the work we do is always in contact with the client so we get feedback that will improve the overall quality of the project.
 
-Example of agile testing workflow diagram: ![](Docs/agile-testing-cycle-workflow.png)
+Example of agile testing workflow diagram: ![](Docs/agile-testing-cycle-workflow.jpg)
 
 **The Management of Project Uncertainty**
 
