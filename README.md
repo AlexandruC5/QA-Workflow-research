@@ -142,4 +142,12 @@ It is important not to get stuck in the stabilization phase, normally when a sta
 
 - [Atlassian](https://www.atlassian.com/blog/inside-atlassian/jira-qa-process)
 
+- [Smoke testing](https://www.guru99.com/smoke-testing.html)
+
+- [Swreflections](http://swreflections.blogspot.com/2013/01/hardening-sprints-what-are-they-do-you.html)
+
+- [K&C](https://kruschecompany.com/blog/post/quality-assurance-in-projects)
+
+-[RealTime Blog](https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/) 
+
 
