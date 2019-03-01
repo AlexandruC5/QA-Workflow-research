@@ -148,6 +148,9 @@ It is important not to get stuck in the stabilization phase, normally when a sta
 
 - [K&C](https://kruschecompany.com/blog/post/quality-assurance-in-projects)
 
--[RealTime Blog](https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/) 
+- [RealTime Blog](https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/) 
 
 
+# Contact
+
+mail: misternyancat99@gmail.com
