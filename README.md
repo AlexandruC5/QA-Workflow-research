@@ -67,6 +67,15 @@ Example of a workflow diagram: ![](Images/nurse.png)
 
 To create a workflow diagram it is important to have very clear our goals, what we want to make and how our team works to cover weakpoints that delays the workflow.
 
+**Components of a workflow diagram**
+
+Input - Equipment or information that’s required to complete the step
+
+Transformation - Development process
+
+Output - Build
+
+
 ![](Images/howtocreateadiagram.png)
 
 # Traditional 
