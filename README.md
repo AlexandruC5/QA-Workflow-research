@@ -63,7 +63,9 @@ Workflows are also useful to help the team memabers understand their roles and t
 
 Example of a workflow diagram: ![](Images/nurse.png)
 
-## How to make a workflow diagrm
+## How to make a workflow diagram
+
+To create a workflow diagram it is important to have very clear our goals, what we want to make and how our team works to cover weakpoints that delays the workflow.
 
 ![](Images/howtocreateadiagram.png)
 
