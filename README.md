@@ -44,6 +44,7 @@ Pre-development testing notes can vary significantly in size, depending on facto
 
 
 **QA/developer demo**
+
 Once a developer is happy that they have completed a feature, he or she will call over their QA engineer for a demo session. This has multiple purposes:
 
 To allow the QA engineer to understand the implementation details of the story, down to the code level. This informs their decisions on risks, what testing needs to be added, and what testing is unnecessary.
@@ -53,6 +54,7 @@ The demo is a discussion between equals, and not a test that the developer or st
 At the end of the demo, the QA engineer and developer will make a joint decision on what should happen to the story next. If both parties are confident about its quality, the feature is moved directly to Done.
 
 **Post-development testing notes**
+
 If either party feels that further testing is needed, the QA engineer will update the testing notes, removing any testing that’s already been done by the developer, and adding new risks based on the implementation of the feature. This eliminates duplication of effort and ensures efficient testing.
 
 # Workflow diagrams 
@@ -78,9 +80,37 @@ Output - Build
 
 ![](Images/howtocreateadiagram.png)
 
-# Traditional 
+# Traditional workflow vs Agile workflow
+
+**Traditional workflow**
+
+The traditional workflow is based on planing everything from the start, every process that we know we have to do is planed and it strictly needs to be done to ensure that no other process is affected. Usually it is used in big teams where the roles of each meamber are very defined, everyone knows what job they have to do, it is more focused on individuals rather than colective work. The traditional workflow is not prepared to make changes, everything has to go as how it was planed if not the project will be a fail.
+
+**Agile workflow**
+
+The agile workflow is a adaptive method where refactorization is used to build the project over what we already have improving it constanly and giving it more features. This workflow is normaly used on small teams and projects that dosent last long. There are few roles and the team is very flexible in general and the work we do is always in contact with the client so we get feedback that will improve the overall quality of the project.
+
+Example of agile testing workflow diagram: ![](Images/agile-testing-cycle-workflow.png)
+
+**The Management of Project Uncertainty**
+
+The management of the uncertainty in the traditional management of Projects: we try to control the uncertainty of the Project so that, in the average of the possible ones, it decreases. We tried to define the entire Project from the beginning, establishing a detailed plan of the Project, with strict contracts and having controlled all the control parameters of the Project, quality, time, costs, etc.
+
+In the traditional management of Projects: we contemplate the inherent uncertainty of the Project and establish prioritization parameters from the beginning of the Project until the end, we could have to face numerous problems throughout the Project Cycle.
+
+The management of the uncertainty of the project in the agile methodologies: the agile methodologies propose a more adaptive model with respect to the uncertainty of the Project, in which we contemplate the refactoring model, build the Project on the already made based on adding value to the that we have already done, little by little, step by step.
+
+Work on basic functionalities: instead of establishing a detailed plan for the entire Project, what we do is work on basic functionalities that are defined at the beginning of the Project and that, little by little, and taking into account the just in time parameter for that there are no excessive or uncontrolled points during the process, get a continuous flow to deliver the Project and establish improvements in the Project.
+
+
 
 # Stabilization Phases
+
+During this phase, the team will execute the test plan created during the planning phase. All implementation is stoped and the only goal of the team during this phase is to solve as much bugs and problems as they can. This phase is usal done at the end of a release where the QA already tested it and fixed major bugs but that dosent mean we cant still have major bugs while this phase. 
+
+Also, debt work is also done. All the work that has to be done to fullfil the costumers request and is not done yet is completed during this phase to ensure that everything is as the costumer requested.
+
+It is important not to get stuck in the stabilization phase, normally when a stabilization phase is long that means that the programmers are not sure of the code they have provided and therefore they ask for more stabilization time because they are afraid of the behavior of the program . More time of execution does not mean that there is more quality, you have to ensure that there is a minimum number of bugs and that all implementation is as polished as possible to ensure a margin of quality at the end of it.
 
 
 
