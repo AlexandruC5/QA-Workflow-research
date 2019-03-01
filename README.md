@@ -1,40 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AlexandruC5/QA-Workflow-research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexandruC5/QA-Workflow-research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 # **QA WORKFLOW**
 
@@ -46,7 +9,21 @@ I am [Alexandru Cercel](https://www.linkedin.com/in/alexandru-mihai-cercel-b4988
 
 It is a step-by-step workflow on how to perform tasks that "ensure" the quality of the project from the beginning to the end of the task. During the development of the game the workflow changes with the different phases that there are, therefore the tasks and priorities change as we go forward and we are asked for different feedback based on the priorities of that development phase.
 
+To reduce errors and minimize bugs, different tools are used to help us carry out our work. The organization is very important since we have to be constantly in contact with our team and provide quality feedback so that we can polish every feature as much as possible.
+
 # What is the typical workflow of a major video game?
+
+**Proposal phase -**  The team brainstorms and creates a high level design doc to pitch the concept in search of funding.
+
+**Gate to preproduction** - The team creates a fuller and more technical project description, they solve some tech issues, get some concept art made, schedules projections and everything els that is needed
+
+**Preproduction** - A very agile, exploratory phase of development. The goals are to solve all the outstanding questions, create asset pipelines, find the fun and produce a “vertical slice”  that is just a few minutes of finished  gameplay.
+
+**Production** - Now that you know how to make content, the team gets really bulked up, the schedule gets firmer and lots of implementation starts. 
+
+**Testing** - Traditionally, we made alpha versions (broken, incomplete, but winnable if only one way), beta versions (complete but buggy) and gold master candidates (we think this is the finished game - QA try to prove otherwise). Now, the versions are more incremental and can even continue to improve post launch. Still, the process is the same - clean, careful, numbered builds that go to QA for a full shakedown and hopefully a sign-off for public release. 
+
+**Release support** - The newly released game is beeing watched and looking forward to make a patch to solve bugs and other problems that might be founded during the release.
 
 # Workflow diagrams 
 
