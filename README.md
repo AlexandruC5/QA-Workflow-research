@@ -24,9 +24,9 @@ To reduce errors and minimize bugs, different tools are used to help us carry ou
 **Testing** - Traditionally, we made alpha versions (broken, incomplete, but winnable if only one way), beta versions (complete but buggy) and gold master candidates (we think this is the finished game - QA try to prove otherwise). Now, the versions are more incremental and can even continue to improve post launch. Still, the process is the same - clean, careful, numbered builds that go to QA for a full shakedown and hopefully a sign-off for public release. 
 
 **Release support** - The newly released game is beeing watched and looking forward to make a patch to solve bugs and other problems that might be founded during the release.
-![](Images/UntitledDiagram.png)
+![](Docs/UntitledDiagram.png)
 
-Therfore the QA invervention during the project is like this: ![](Images/Blog1.png)
+Therfore the QA invervention during the project is like this: ![](Docss/Blog1.png)
 
 **Planning feedback**
 
@@ -63,7 +63,7 @@ A workflow diagram provides a graphic overview of how a specific role is done. U
 
 Workflows are also useful to help the team memabers understand their roles and the order in which work is completed, and to create more unity within different departments. Originating from the manufacturing industry, workflows are now used by a variety of industries—from government to finance to commerce—and are easier than ever to create.
 
-Example of a workflow diagram: ![](Images/nurse.png)
+Example of a workflow diagram: ![](Docs/nurse.png)
 
 ## How to make a workflow diagram
 
@@ -78,7 +78,7 @@ Transformation - Development process
 Output - Build
 
 
-![](Images/howtocreateadiagram.png)
+![](Docs/howtocreateadiagram.png)
 
 # Traditional workflow vs Agile workflow
 
@@ -90,7 +90,7 @@ The traditional workflow is based on planing everything from the start, every pr
 
 The agile workflow is a adaptive method where refactorization is used to build the project over what we already have improving it constanly and giving it more features. This workflow is normaly used on small teams and projects that dosent last long. There are few roles and the team is very flexible in general and the work we do is always in contact with the client so we get feedback that will improve the overall quality of the project.
 
-Example of agile testing workflow diagram: ![](Images/agile-testing-cycle-workflow.png)
+Example of agile testing workflow diagram: ![](Docs/agile-testing-cycle-workflow.png)
 
 **The Management of Project Uncertainty**
 
