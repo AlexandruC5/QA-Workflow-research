@@ -113,6 +113,16 @@ Also, debt work is also done. All the work that has to be done to fullfil the co
 It is important not to get stuck in the stabilization phase, normally when a stabilization phase is long that means that the programmers are not sure of the code they have provided and therefore they ask for more stabilization time because they are afraid of the behavior of the program . More time of execution does not mean that there is more quality, you have to ensure that there is a minimum number of bugs and that all implementation is as polished as possible to ensure a margin of quality at the end of it.
 
 
+#Tips to improve QA Workflow
+
+- Stay close to your team
+- Break free from the classical roles and responsibilities of QA
+- Categorize tasks based on Importance and Complexity 
+- Prioritize bug fixes based on usage
+- Give full visibility into your work
+- QA IS NOT PLAYING THE GAME
+
+
 
 
 
