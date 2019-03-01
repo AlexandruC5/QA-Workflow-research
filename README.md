@@ -24,6 +24,7 @@ To reduce errors and minimize bugs, different tools are used to help us carry ou
 **Testing** - Traditionally, we made alpha versions (broken, incomplete, but winnable if only one way), beta versions (complete but buggy) and gold master candidates (we think this is the finished game - QA try to prove otherwise). Now, the versions are more incremental and can even continue to improve post launch. Still, the process is the same - clean, careful, numbered builds that go to QA for a full shakedown and hopefully a sign-off for public release. 
 
 **Release support** - The newly released game is beeing watched and looking forward to make a patch to solve bugs and other problems that might be founded during the release.
+!()[https://github.com/AlexandruC5/QA-Workflow-research/blob/master/Images/Untitled%20Diagram.png]
 
 # Workflow diagrams 
 
