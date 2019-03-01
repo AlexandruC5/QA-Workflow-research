@@ -44,6 +44,7 @@ I am [Alexandru Cercel](https://www.linkedin.com/in/alexandru-mihai-cercel-b4988
 
 # What is QA Workflow
 
+It is a step-by-step workflow on how to perform tasks that "ensure" the quality of the project from the beginning to the end of the task. During the development of the game the workflow changes with the different phases that there are, therefore the tasks and priorities change as we go forward and we are asked for different feedback based on the priorities of that development phase.
 
 # What is the typical workflow of a major video game?
 
