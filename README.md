@@ -57,6 +57,16 @@ If either party feels that further testing is needed, the QA engineer will updat
 
 # Workflow diagrams 
 
+A workflow diagram provides a graphic overview of how a specific role is done. Using standardized symbols and shapes, the workflow shows step by step how your work is completed from start to finish. It also shows who is responsible for work at what point in the process. Designing a workflow involves first conducting a thorough workflow analysis, which can expose potential weaknesses.
+
+Workflows are also useful to help the team memabers understand their roles and the order in which work is completed, and to create more unity within different departments. Originating from the manufacturing industry, workflows are now used by a variety of industries—from government to finance to commerce—and are easier than ever to create.
+
+Example of a workflow diagram: ![](Images/nurse.png)
+
+## How to make a workflow diagrm
+
+![](Images/howtocreateadiagram.png)
+
 # Traditional 
 
 # Stabilization Phases
